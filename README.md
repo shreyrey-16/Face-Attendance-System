@@ -2,7 +2,7 @@
 
 A real-time Face Recognition Based Attendance System developed using **Python**, **OpenCV**, and the **LBPH (Local Binary Pattern Histogram)** algorithm. The system automates attendance by recognizing registered users through a webcam and records their **entry** and **exit** timestamps in a CSV file.
 
-This project was developed as part of the **Bachelor of Engineering in Robotics and Artificial Intelligence** at **Thapar Institute of Engineering and Technology**. :contentReference[oaicite:2]{index=2}
+This project was developed as part of the **Bachelor of Engineering in Robotics and Artificial Intelligence** at **Thapar Institute of Engineering and Technology**. 
 
 ---
 
